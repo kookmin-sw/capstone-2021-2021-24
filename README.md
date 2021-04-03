@@ -1,22 +1,35 @@
 ## 1. 프로잭트 소개
 
-프로젝트
+2021 캡스톤 24조 Flutter 앱 front-end 개발팀  
 
-### 2. 소개 영상
+## 2. 소개 영상
 
 프로젝트 소개하는 영상을 추가하세요
 
-### 3. 팀 소개
+## 3. 팀 소개
 
-팀을 소개하세요.
+#### **송희범(팀장)**
+**Student_ID 20182089**
 
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
+<img align="left" src = 이미지주소
+" width="200px" height="200px">
 
-20181577 김경준
-20181622 백지웅
-20182089 송희범
+#### **김영민**
+**Student_ID **
 
+<img align="left" src = 이미지주소
+" width="200px" height="200px">
 
+#### **장성용**
+**Student_ID **
+
+<img align="left" src = 이미지주소
+" width="200px" height="200px">
+
+#### **백지웅**
+**Student_ID 20181622**
+<img align="left" src = 이미지주소
+" width="200px" height="200px">
 
 ### 4. 사용법
 
