@@ -1,6 +1,10 @@
-## 1. 프로잭트 소개
+## 1. 프로트 소개
 
-2021 캡스톤 24조 Flutter 앱 front-end 개발팀  
+2021 캡스톤 24조 Flutter 앱 front-end 개발팀 
+
+### 주요기능
+
+### 타겟층
 
 ## 2. 소개 영상
 
@@ -10,24 +14,26 @@
 
 #### **송희범(팀장)**
 **Student_ID 20182089**
+**역할:**
 
 <img align="left" src = 이미지주소
 " width="200px" height="200px">
 
 #### **김영민**
 **Student_ID **
-
+**역할:**
 <img align="left" src = 이미지주소
 " width="200px" height="200px">
 
 #### **장성용**
 **Student_ID **
-
+**역할:**
 <img align="left" src = 이미지주소
 " width="200px" height="200px">
 
 #### **백지웅**
 **Student_ID 20181622**
+**역할:**
 <img align="left" src = 이미지주소
 " width="200px" height="200px">
 
