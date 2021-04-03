@@ -4,7 +4,7 @@
 
 ## 2. 소개 영상
 
-프로젝트 소개하는 영상을 추가하세요
+[영상링크](링크주소)
 
 ## 3. 팀 소개
 
@@ -31,9 +31,33 @@
 <img align="left" src = 이미지주소
 " width="200px" height="200px">
 
-### 4. 사용법
+### 4. 앱 실행 환경설정 가이드
 
-소스코드제출시 설치법이나 사용법을 작성하세요.
+  ```markdown
+  #Android Studio install
+   -https://developer.android.com/studio
+  ```
+
+  ```markdown
+  #Android Studio Flutter Plugin install
+  ```
+  
+  ```markdown
+  #Flutter SDK install
+   -https://flutter-ko.dev/docs/get-started/install/windows
+  ```
+  
+  ```markdown
+  #Flutter Doctor Android licenses accept
+   -Flutter Sdk PATH 내 flutter_console.bat 실행
+   -flutter doctor --android-licenses 입력
+  ```
+  
+  ```markdown
+  #AVD install
+   -Pixel 2 + playStore가 존재하는 버전 선택
+   -API level 29 'Q'설치 권장
+```
 
 ### 5. 기타
 
