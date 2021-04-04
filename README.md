@@ -17,11 +17,11 @@
 **역할:Flutter 개발**
 
 #### **김영민**
-**Student_ID **
+**Student_ID**
 **역할:Flutter 개발**
 
 #### **장성용**
-**Student_ID **
+**Student_ID**
 **역할:Swift_UI 개발**
 
 #### **백지웅**
