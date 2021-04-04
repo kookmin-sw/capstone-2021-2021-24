@@ -16,7 +16,7 @@
 **Student_ID 20182089**
 **역할:**
 
-<img align="left" src = 이미지주소
+<img align="left" src = https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/133079355_109849981021129_5234021417919755364_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=cvBKQ0uOv5YAX82Duyi&_nc_ht=scontent-ssn1-1.xx&uss=9311dd3111ee700d&odm=bmV1cm9hc3NvY2lhdGVzY29sdGQwMzUud29ya3BsYWNlLmNvbQ&oe2=60903620&oh=7563d3e3f5071e2645d37ec85d3eb150&oe=60697F94
 " width="200px" height="200px">
 
 #### **김영민**
