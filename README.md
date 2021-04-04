@@ -6,8 +6,10 @@
 
 
 
+## 2. Abstract
+Developing customized community services within companies, schools, and regions
 
-## 2. 팀 소개
+## 3. 팀 소개
 
 #### **송희범(팀장)**
 **Student_ID 20182089**
@@ -25,7 +27,7 @@
 **Student_ID 20181622**
 **역할:Flutter 개발**
 
-### 3. 앱 실행 환경설정 가이드
+### 4. 앱 실행 환경설정 가이드
 
   ```markdown
   #Android Studio install
@@ -53,7 +55,7 @@
    -API level 29 'Q'설치 권장
 ```
 
-### 4.  내부 프로젝트 구조
+### 5.  내부 프로젝트 구조
 ```
 ├── lib
 │   ├──home.dart
