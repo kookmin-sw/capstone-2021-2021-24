@@ -16,6 +16,7 @@ Developing customized community services within companies, schools, and regions
 **역할:Flutter 개발**
 
 #### **김영민**
+![김영민](https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EA%B9%80%EC%98%81%EB%AF%BC.jpg?raw=true)
 **Student_ID2016**
 **역할:Flutter 개발**
 
