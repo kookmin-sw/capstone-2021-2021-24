@@ -12,19 +12,26 @@ Developing customized community services within companies, schools, and regions
 ## 3. 팀 소개
 
 #### **송희범(팀장)**
+![송희범](https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EC%86%A1%ED%9D%AC%EB%B2%94.jpg?raw=true)
+
 **Student_ID 20182089**
 **역할:Flutter 개발**
 
 #### **김영민**
 ![김영민](https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EA%B9%80%EC%98%81%EB%AF%BC.jpg?raw=true)
+
 **Student_ID2016**
 **역할:Flutter 개발**
 
 #### **장성용**
+![장성용](https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EC%9E%A5%EC%84%B1%EC%9A%A9.jpg?raw=true)
+
 **Student_ID2016**
 **역할:Swift_UI 개발**
 
 #### **백지웅**
+![백지웅](https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EB%B0%B1%EC%A7%80%EC%9B%85.jpg?raw=true)
+
 **Student_ID 20181622**
 **역할:Flutter 개발**
 
