@@ -4,10 +4,11 @@
 
 맞춤형 비즈니스 커뮤니티 앱서비스의 공통 모듈 개발
 
-
+<br/>
 
 ## 2. Abstract
-Developing customized community services within companies, schools, and regions
+Common module of business community app service that can be developed customized
+
 <br/>
 
 ## 3. 소개 영상
