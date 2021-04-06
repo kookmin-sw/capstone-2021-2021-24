@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+## 1. 프로젝트 소개
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/capstone-2021-24/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+회사, 학교, 지역 맞춤 커뮤니티 서비스 개발
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 2. Abstract
+Developing customized community services within companies, schools, and regions
 
-- Bulleted
-- List
+## 3. 팀 소개
 
-1. Numbered
-2. List
+#### **송희범(팀장)**
+**Student_ID 20182089**
+**역할:Flutter 개발**
 
-**Bold** and _Italic_ and `Code` text
+#### **김영민**
+**Student_ID2016**
+**역할:Flutter 개발**
 
-[Link](url) and ![Image](src)
+#### **장성용**
+**Student_ID2016**
+**역할:Swift_UI 개발**
+
+#### **백지웅**
+**Student_ID 20181622**
+**역할:Flutter 개발**
+
+### 4. 앱 실행 환경설정 가이드
+
+  ```markdown
+  #Android Studio install
+   -https://developer.android.com/studio
+  ```
+
+  ```markdown
+  #Android Studio Flutter Plugin install
+  ```
+  
+  ```markdown
+  #Flutter SDK install
+   -https://flutter-ko.dev/docs/get-started/install/windows
+  ```
+  
+  ```markdown
+  #Flutter Doctor Android licenses accept
+   -Flutter Sdk PATH 내 flutter_console.bat 실행
+   -flutter doctor --android-licenses 입력
+  ```
+  
+  ```markdown
+  #AVD install
+   -Pixel 2 + playStore가 존재하는 버전 선택
+   -API level 29 'Q'설치 권장
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/capstone-2021-24/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 5.  내부 프로젝트 구조
+```
+├── lib
+│   ├──home.dart
+│   ├──main.dart
+│   ├──myimport.dart
+│   ├──place.dart
+│   ├───────
+│   ├── review   
+│   ├── search
+│   │   └──searchPage.dart
+│   ├── setting
+│   │   └──setting.dart
+│   │   └──terms.dart
+│   ├── Login
+│   │   └──login_main.dart
+│   └── signup
+        └──signup.dart
+```
