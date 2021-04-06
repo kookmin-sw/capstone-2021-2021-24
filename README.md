@@ -10,6 +10,7 @@
 Developing customized community services within companies, schools, and regions
 
 ## 3. 팀 소개
+<br/>
 
 #### **송희범(팀장)**
 <img src="https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EC%86%A1%ED%9D%AC%EB%B2%94.jpg?raw=true"  width="300" height="300">
