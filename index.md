@@ -1,6 +1,6 @@
 # 맞춤형 비즈니스 커뮤니티 앱서비스 개발 공통모듈
 
-** 팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2021-24
+**팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2021-24
 
 
 
