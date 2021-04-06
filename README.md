@@ -31,14 +31,14 @@ Developing customized community services within companies, schools, and regions
 **역할:Flutter 개발**=
 <br/>
 
-#### +  **장성용**
+#### **장성용**
 <img src="https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EC%9E%A5%EC%84%B1%EC%9A%A9.jpg?raw=true" width="300" heigth="300">
                                                                                                                                          
 **Student_ID2016**
 **역할:Swift_UI 개발**
 br/>
 
-#### **+  백지웅**
+#### **백지웅**
 <img src="https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EB%B0%B1%EC%A7%80%EC%9B%85.jpg?raw=true" width="300" heigth="300">
 
 **Student_ID 20181622**
