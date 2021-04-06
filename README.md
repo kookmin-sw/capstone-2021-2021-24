@@ -45,7 +45,7 @@ br/>
 **역할:Flutter 개발**
 <br/>
 
-### 4. 앱 실행 환경설정 가이드
+## 4. 앱 실행 환경설정 가이드
 
   ```markdown
   #Android Studio install
@@ -74,7 +74,7 @@ br/>
 ```
 <br/>
 
-### 6.  내부 프로젝트 구조
+## 6.  내부 프로젝트 구조
 ```
 ├── lib
 │   ├──home.dart
@@ -94,10 +94,12 @@ br/>
         └──signup.dart
 ```
 <br/>
-### 7. 개발 
 
-***협업도구***
-  *팀관리: WorkSpace_WOrkSpaceChat
-  *버전관리: Github
-  *화상회의: Google Meet
+
+## 7. 개발 
+
+### 협업도구
+  -팀관리: WorkSpace_WOrkSpaceChat
+  -버전관리: Github
+  -화상회의: Google Meet
   
