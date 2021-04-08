@@ -1,16 +1,17 @@
-# 맞춤형 비즈니스 커뮤니티 
-# 앱서비스 개발 공통모듈
+# 어떤 비즈니스 모델에도 적용할 수 있는 
+# 커뮤니티 앱서비스 공통모듈
 
 **팀페이지 주소** -> https://kookmin-sw.github.io/capstone-2021-24
 
 
 
 
-## 1. 프로젝트 소개
+## 1. 산학 자요 프로젝트 소개
 
+산학협력 기업 : [뉴로어소시에이츠](https://neuroacs.com/pages/about.html)
 
-
-맞춤형 비즈니스 커뮤니티 앱서비스의 공통 모듈 개발
+어떤 비즈니스 모델에도 적용 가능한 커뮤니티 앱서비스의 공통 모듈 개발
+- 회사 보안 사항으로 자세한 내용은 공개 
 
 <br/>
 
@@ -111,4 +112,11 @@ br/>
 + 팀관리: WorkSpace_WOrkSpaceChat
 + 버전관리: Github
 + 화상회의: Google Meet
+
+## 8. 기타 
+ ### GITHUB 내부 docs폴더의 발표자료를 참고해주세요
+ 
+ [발표자료](https://github.com/kookmin-sw/capstone-2021-24/blob/master/docs/13%2624%ED%8C%80_%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C.pdf)
+ 
+ [모바일 앱시안](https://github.com/kookmin-sw/capstone-2021-24/blob/master/docs/24%ED%8C%80_%EB%AA%A8%EB%B0%94%EC%9D%BC%20%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%20%EC%8B%9C%EC%95%88.pdf)
   
