@@ -1,53 +1,63 @@
-## 1. 프로젝트 소개
+
+#### 2021 국민대학교 소프트웨어융합대학 캡스톤 23팀   
+#### 뉴로어소시에이츠 산학협력 Front-end개발팀
 
 
 
-맞춤형 비즈니스 커뮤니티 앱서비스의 공통 모듈 개발
 
 
+  
+    
+       
+        
+# Project_intro
+회사 보안 내규로 자세한 사항 공개 불가
+## Team Member
 
-## 2. Abstract
-Developing customized community services within companies, schools, and regions
-<br/>
+<center><img src="https://user-images.githubusercontent.com/38937867/119224431-61024200-bb39-11eb-8308-ffb59bf52ec2.jpg" width="100" height="100"></center>
 
-## 3. 소개 영상
-***(추후 업로드 예정)***
-<br/>
+```
+김영민_Kim Young Min
+국민대학교 소프트웨어학부 
+StudentID:20162820
+Email: dudals2467@kookmin.ac.kr
+Github: https://github.com/kimyoungmin101
 
-## 4. 팀 소개
-<br/>
+```
+<center><img src="https://user-images.githubusercontent.com/38937867/119224405-3fa15600-bb39-11eb-8e98-f7f047b8b97e.jpg" width="100" height="100"></center>
 
-#### **송희범(팀장)**
-<img src="https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EC%86%A1%ED%9D%AC%EB%B2%94.jpg?raw=true"  width="300" height="300">
+```
+송희범_Song Hee Beom
+국민대학교 소프트웨어학부 
+StudentID: 20182089
+Email: songh6508@gmail.com
+Github: https://github.com/heebeom-song
+```
+<center><img src="https://user-images.githubusercontent.com/38937867/119224372-11bc1180-bb39-11eb-99d3-60f78fa57592.jpg" width="100" height="100"></center>
 
-**Student_ID 20182089**
-**역할:Flutter 개발**
-<br/>
+```
+장성용_Jang Sung Yong
+국민대학교 소프트웨어학부 
+StudentID:20162838
+Email: syj6219@icloud.com
+Github: https://github.com/jane-seong-yong
+```
 
-#### **김영민**
-<img src="https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EA%B9%80%EC%98%81%EB%AF%BC.jpg?raw=true"  width="300" height="300">
+<center><img src="https://user-images.githubusercontent.com/38937867/119224288-b558f200-bb38-11eb-8e0d-37ddc93cb3e1.jpg" width="100" height="100"></center>
 
-**Student_ID2016**
-**역할:Flutter 개발**=
-<br/>
+```
+백지웅_Baek Ji Woong
+국민대학교 소프트웨어학부 
+StudentID: 20181622
+Email: backjiung@gmail.com
+Github: https://github.com/backjiung
+```
+## Project_Purpose
+회사 보안 내규로 자세한 사항 공개 불가
 
-#### **장성용**
-<img src="https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EC%9E%A5%EC%84%B1%EC%9A%A9.jpg?raw=true" width="300" heigth="300">
-                                                                                                                                         
-**Student_ID2016**
-**역할:Swift_UI 개발**
-br/>
+## 앱 실행 환경설정 가이드
 
-#### **백지웅**
-<img src="https://github.com/kookmin-sw/capstone-2021-24/blob/master/Image/%EB%B0%B1%EC%A7%80%EC%9B%85.jpg?raw=true" width="300" heigth="300">
-
-**Student_ID 20181622**
-**역할:Flutter 개발**
-<br/>
-
-## 4. 앱 실행 환경설정 가이드
-
-  ```markdown
+```markdown
   #Android Studio install
    -https://developer.android.com/studio
   ```
@@ -74,32 +84,101 @@ br/>
 ```
 <br/>
 
-## 6.  내부 프로젝트 구조
+## Project 사용 스택
+
+#### Front-end
+##### 1. Flutter
+##### 2. Postman
+##### 3. Swagger_UI
+##### 4. Swift_UI
+_________________________________
+##### 협업
+##### 버전 관리:GitHub
+##### 회의기록 및 일정공유: Notion & Workplace & Slack
+
+ 
+
+
+## 내부 Project 구조
+
 ```
-├── lib
-│   ├──home.dart
-│   ├──main.dart
-│   ├──myimport.dart
-│   ├──place.dart
-│   ├───────
-│   ├── review   
-│   ├── search
-│   │   └──searchPage.dart
-│   ├── setting
-│   │   └──setting.dart
-│   │   └──terms.dart
-│   ├── Login
-│   │   └──login_main.dart
-│   └── signup
-        └──signup.dart
+📦p1_project
+ ┣ 📂.idea
+ ┣ 📂android
+ ┣ 📂assets
+ ┃ ┗ 📂images
+ ┣ 📂ios
+ ┣ 📂lib
+ ┃ ┣ 📂addLink
+ ┃ ┃ ┣ 📜addLink.dart
+ ┃ ┃ ┗ 📜addLink_server.dart
+ ┃ ┣ 📂components
+ ┃ ┃ ┗ 📜rounded_button.dart
+ ┃ ┣ 📂home
+ ┃ ┃ ┣ 📂components
+ ┃ ┃ ┃ ┣ 📜body.dart
+ ┃ ┃ ┃ ┣ 📜categorries.dart
+ ┃ ┃ ┃ ┣ 📜item_card.dart
+ ┃ ┃ ┃ ┣ 📜item_card2.dart
+ ┃ ┃ ┃ ┣ 📜navi.dart
+ ┃ ┃ ┃ ┣ 📜navi2.dart
+ ┃ ┃ ┃ ┣ 📜post_home.dart
+ ┃ ┃ ┃ ┣ 📜product_value.dart
+ ┃ ┃ ┃ ┗ 📜webview.dart
+ ┃ ┃ ┗ 📜home_screen.dart
+ ┃ ┣ 📂login_screen
+ ┃ ┃ ┣ 📂sign_in
+ ┃ ┃ ┃ ┣ 📂components
+ ┃ ┃ ┃ ┃ ┗ 📜body.dart
+ ┃ ┃ ┃ ┗ 📜sign_in_screen.dart
+ ┃ ┃ ┣ 📂sign_up
+ ┃ ┃ ┃ ┣ 📂components
+ ┃ ┃ ┃ ┃ ┣ 📜body.dart
+ ┃ ┃ ┃ ┃ ┣ 📜complete.dart
+ ┃ ┃ ┃ ┃ ┗ 📜login_terms.dart
+ ┃ ┃ ┃ ┗ 📜sign_up_screen.dart
+ ┃ ┃ ┗ 📂welcome
+ ┃ ┃ ┃ ┣ 📂components
+ ┃ ┃ ┃ ┃ ┗ 📜body.dart
+ ┃ ┃ ┃ ┗ 📜welcome_screen.dart
+ ┃ ┣ 📂logout_screen
+ ┃ ┃ ┗ 📂logout
+ ┃ ┃ ┃ ┗ 📜logout_screen.dart
+ ┃ ┣ 📂models
+ ┃ ┃ ┣ 📜Product.dart
+ ┃ ┃ ┗ 📜Product2.dart
+ ┃ ┣ 📂screens
+ ┃ ┃ ┣ 📂home
+ ┃ ┃ ┃ ┣ 📂components
+ ┃ ┃ ┃ ┃ ┗ 📜body.dart
+ ┃ ┃ ┃ ┗ 📜home_screen.dart
+ ┃ ┃ ┗ 📂splash
+ ┃ ┃ ┃ ┣ 📂components
+ ┃ ┃ ┃ ┃ ┣ 📜body.dart
+ ┃ ┃ ┃ ┃ ┗ 📜splash_content.dart
+ ┃ ┃ ┃ ┗ 📜splash_screen.dart
+ ┃ ┣ 📂setting
+ ┃ ┃ ┣ 📂components
+ ┃ ┃ ┃ ┣ 📜body.dart
+ ┃ ┃ ┃ ┣ 📜delete_Id.dart
+ ┃ ┃ ┃ ┣ 📜logout_Setting.dart
+ ┃ ┃ ┃ ┣ 📜terms.dart
+ ┃ ┃ ┃ ┣ 📜term_2.dart
+ ┃ ┃ ┃ ┗ 📜version.dart
+ ┃ ┃ ┣ 📜link_value.dart
+ ┃ ┃ ┣ 📜setting.dart
+ ┃ ┃ ┗ 📜setting_screen.dart
+ ┃ ┣ 📜constants.dart
+ ┃ ┣ 📜id_nickname_value.dart
+ ┃ ┣ 📜main.dart
+ ┃ ┣ 📜my_arr.dart
+ ┃ ┣ 📜routs.dart
+ ┃ ┣ 📜size_config.dart
+ ┃ ┣ 📜url_list.dart
+ ┃ ┗ 📜value.dart
+ ┣ 📂test
+ ┗ 📜README.md
 ```
-<br/>
+## 내부 Project 명세
+회사 보안 내규로 자세한 사항 공개 불가
 
-
-## 7. 개발 
-
-### 협업도구
-+ 팀관리: WorkSpace_WOrkSpaceChat
-+ 버전관리: Github
-+ 화상회의: Google Meet
-  
