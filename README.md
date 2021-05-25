@@ -83,15 +83,15 @@ Github: https://github.com/backjiung
    -API level 29 'Q'설치 권장
 ```
 
-  ## 앱 실행 환경설정 가이드(ios)
-  
+ ## 앱 실행 환경설정 가이드(ios)
+ 
+ ```markdown
   #Xcode 설치(맥부 구비필요)
   - http://developer.apple.com/download/more
   - macOS 버전 10.15, Xode 11 이상이 필요 
   ```
 
   ```markdown
-  
    #서버 통신을 위한 설정
    -INfo.plist에 들어가기
    -Information Property LIst 아래에 App Transport Security Settiings추가
@@ -101,7 +101,7 @@ Github: https://github.com/backjiung
     -상단부 File -> Swift Packages -> Add Package Dependency -> 입력란ㅇ https://github.com/Alamofire/Alamofire 입력후 Next -> 그대로 쭉 다음 버튼으로 진행
    
 <br/>
-
+   ``` 
 ## Project 사용 스택
 
 #### Front-end
