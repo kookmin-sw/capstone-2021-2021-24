@@ -98,7 +98,8 @@ Github: https://github.com/backjiung
    -App Transport Security Settiings 아래에 Allow Arbitrary Loads 추가
   
     Alamofire설치( 서버연결에 쓰이는 swift package )
-    -상단부 File -> Swift Packages -> Add Package Dependency -> 입력란ㅇ https://github.com/Alamofire/Alamofire 입력후 Next -> 그대로 쭉 다음 버튼으로 진행
+    -상단부 File -> Swift Packages -> Add Package Dependency     
+       -> 입력란 https://github.com/Alamofire/Alamofire 입력후 Next -> 그대로 쭉 다음 버튼으로 진행
    
 
    ``` 
