@@ -86,7 +86,7 @@ Github: https://github.com/backjiung
  ## 앱 실행 환경설정 가이드(ios)
  
  ```markdown
-  #Xcode 설치(맥북북 구비필요)
+  #Xcode 설치(맥북 구비필요)
   - http://developer.apple.com/download/more
   - macOS 버전 10.15, Xode 11 이상이 필요 
   ```
